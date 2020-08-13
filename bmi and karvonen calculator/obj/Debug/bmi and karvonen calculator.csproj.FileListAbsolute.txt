@@ -1,0 +1,7 @@
+D:\C# class\class 3\bmi and karvonen calculator\bmi and karvonen calculator\bin\Debug\bmi and karvonen calculator.exe.config
+D:\C# class\class 3\bmi and karvonen calculator\bmi and karvonen calculator\bin\Debug\bmi and karvonen calculator.exe
+D:\C# class\class 3\bmi and karvonen calculator\bmi and karvonen calculator\bin\Debug\bmi and karvonen calculator.pdb
+D:\C# class\class 3\bmi and karvonen calculator\bmi and karvonen calculator\obj\Debug\bmi and karvonen calculator.csprojAssemblyReference.cache
+D:\C# class\class 3\bmi and karvonen calculator\bmi and karvonen calculator\obj\Debug\bmi and karvonen calculator.csproj.CoreCompileInputs.cache
+D:\C# class\class 3\bmi and karvonen calculator\bmi and karvonen calculator\obj\Debug\bmi and karvonen calculator.exe
+D:\C# class\class 3\bmi and karvonen calculator\bmi and karvonen calculator\obj\Debug\bmi and karvonen calculator.pdb
